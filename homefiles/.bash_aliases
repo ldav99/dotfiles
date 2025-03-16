@@ -1,0 +1,10 @@
+alias cl="clear"
+alias ..="cd .."
+alias ...="cd ../.."
+alias gs="git status"
+alias gaa="git add -A"
+alias gc="git commit -m"\
+alias h1="history 10"
+alias h2="history 20"
+alias h3="history 30"
+alias hgrep='history | grep'
