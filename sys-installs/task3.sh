@@ -13,6 +13,8 @@ if [[ "$EUID" -eq 0 ]]; then
 				sudo cp /var/cuda-repo-ubuntu2404-12-8-local/cuda-*-keyring.gpg /usr/share/keyrings/
 				sudo apt-get update
 				sudo apt-get -y install cuda-toolkit-12-8
+
+				echo 'Program complete, test installation by running nvcc --version'
 			else
 				echo 'This program is already installed on your system.'
 				exit 1
