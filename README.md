@@ -1,7 +1,7 @@
-# Dotfiles
-Dotfiles assignements for CEG-2410.
+# Dotfiles README
+Dotfiles assignements for CEG-2410.<br><br>
 
-# Summary
+## Summary
 ## Vim-Config
   * Copy of vimrc file from vundle. This contains the plugins that installed and use from Task1.
       * These were the [Anderson Color Scheme](https://vimawesome.com/plugin/anderson-vim) and [Nerd Tree](https://vimawesome.com/plugin/nerdtree-red).
@@ -17,6 +17,6 @@ Dotfiles assignements for CEG-2410.
 ## Task 4 Fix
   * For my task 4 issue, I fixed a problem with my task 1 script where it wouldn't copy my cloned GitHub folder.
 
-# How to clone / utilize
+## How to clone / utilize
 
-# Retrospective
+## Retrospective
