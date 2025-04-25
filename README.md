@@ -20,3 +20,4 @@ Dotfiles assignements for CEG-2410.<br><br>
 ## How to clone / utilize
 
 ## Retrospective
+I really enjoyed these assignments. The one I liked the most was probably the Vim-Config one. I have always complained about default vim and was always to lazy/afraid to make any big changes. These assignments also got me more experience with bash scripting which is nice becuase scripts/automation are extremly helpful and look good on resumes.
