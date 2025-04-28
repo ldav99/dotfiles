@@ -16,6 +16,7 @@ Dotfiles assignements for CEG-2410.<br><br>
    
 ## Task 4 Fix
   * For my task 4 issue, I fixed a problem with my task 1 script where it wouldn't copy my cloned GitHub folder.
+  * To change this I changed the copy path from `/vim-config/.vimrc` to `/home/ubuntu/dotfiles/vim-config/.vimrc` So that way it was actually taking it from the more specific file path
 
 ## How to clone / utilize
 
