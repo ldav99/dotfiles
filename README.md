@@ -19,6 +19,11 @@ Dotfiles assignements for CEG-2410.<br><br>
   * To change this I changed the copy path from `/vim-config/.vimrc` to `/home/ubuntu/dotfiles/vim-config/.vimrc` So that way it was actually taking it from the more specific file path
 
 ## How to clone / utilize
+ * Have Github Desktop installed
+ * On the repo click the green code button
+ * Select Open with Github Desktop
+ * Select the local path you want to put it in and click clone
+ * From there you could download/copy over all the scripts and put them in their respective folders to replicate.
 
 ## Retrospective
 I really enjoyed these assignments. The one I liked the most was probably the Vim-Config one. I have always complained about default vim and was always to lazy/afraid to make any big changes. These assignments also got me more experience with bash scripting which is nice becuase scripts/automation are extremly helpful and look good on resumes.
