@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #copies the `.vimrc` file from your repository to your user's home directory
-cp /vim-config/.vimrc /home/ubuntu 
+cp /home/ubuntu/dotfiles/vim-config/.vimrc /home/ubuntu 
 
 
 #installs `Vundle` if `~/.vim/bundle/Vundle.vim` does not exist
